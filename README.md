@@ -1,6 +1,3 @@
-# ze-auto
-Facilitador para a interação entre cliente e oficina mecânica
+### Olá 👋
 
-MELJAEL DANIEL DE OLIVEIRA
-andre esteve aqui
-Arthur Medeiros
+- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, DJANGO
