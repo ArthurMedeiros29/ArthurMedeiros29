@@ -1,3 +1,3 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, DJANGO
+- 🌱 I’m currently learning HTML5, CSS3, DJANGO
