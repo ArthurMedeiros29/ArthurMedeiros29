@@ -1,7 +1,7 @@
-### Olá 👋
+### Hello/Hola/Olá 👋
 
-- I am graduating with a Bachelor's degree in Computer Science from the State University of Paraíba (UEPB).
+- I have a Bachelor's degree in Computer Science from the State University of Paraíba (UEPB).
 
-- I'm always wanting to learn.
+- I'm always eager to learn.
 
-- The language I am most proficient in is Python
+- The language I'm most proficient in is Python
